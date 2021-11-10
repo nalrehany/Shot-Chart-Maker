@@ -1,5 +1,5 @@
 # Shot Chart Maker
-Utilizing nba_api and some of venkatesannaveen's existin framework, I created the funciton that requires 4 inputs:
+Utilizing nba_api and some of venkatesannaveen's existing framework, I created the funciton that requires 4 inputs:
 * Player first name
 * Player last name
 * Team
